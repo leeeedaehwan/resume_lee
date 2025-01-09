@@ -283,7 +283,7 @@
             color: var(--main-font-color);
             font-size: 0.78125rem;
             letter-spacing: 0;
-            line-height: normal;
+            line-height: normal; 
         }
 
         .skill-bar {
